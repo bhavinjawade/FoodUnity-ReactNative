@@ -1,0 +1,38 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-community/cameraroll": "^4.0.1",
+    "@react-native-picker/picker": "^1.9.11",
+    "@react-navigation/native": "^5.9.2",
+    "@react-navigation/stack": "^5.14.2",
+    "expo": "~39.0.2",
+    "expo-camera": "~9.0.0",
+    "expo-file-system": "^9.3.0",
+    "expo-permissions": "~9.3.0",
+    "expo-status-bar": "~1.0.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.3.tar.gz",
+    "react-native-image-base64": "^0.1.4",
+    "react-native-maps": "0.27.1",
+    "react-native-paper": "^4.7.1",
+    "react-native-web": "~0.13.12",
+    "socket.io-client": "^3.0.5",
+    "socket.io-stream": "^0.9.1"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.9.0",
+    "@types/react": "~16.9.35",
+    "@types/react-dom": "~16.9.8",
+    "@types/react-native": "~0.63.2",
+    "typescript": "~3.9.5"
+  },
+  "private": true
+}
