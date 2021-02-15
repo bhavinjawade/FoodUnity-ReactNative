@@ -1,3 +1,7 @@
-# expo-camera-tutorial
+# Expo React Native - 
 
-[Build Camera app with expo with React Native](https://www.freecodecamp.org/news/p/378cbc42-6931-419e-b4a6-7485ce78cff3/)
+Run below command to start the project
+```
+expo install
+expo start
+```
